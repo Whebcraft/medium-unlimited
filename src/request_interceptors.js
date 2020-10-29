@@ -16,6 +16,7 @@ const urlsList = [
   'https://levelup.gitconnected.com/*',
   'https://itnext.io/*',
   'https://entrepreneurshandbook.co/*',
+  'https://byrslf.co/*',
   'https://proandroiddev.com/*',
   'https://blog.prototypr.io/*',
   'https://thebolditalic.com/*',
